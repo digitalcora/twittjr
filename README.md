@@ -1,6 +1,9 @@
-Twittjr README
-==============
-Twittjr is a system that allows an IBM PCjr to search the public timeline on Twitter, with an auto-refreshing display. Visit <http://grantovich.net/projects/twittjr/> for more detailed information. This README is a quick how-to on setting up Twittjr using your own PCjr, assuming you have one.
+Twittjr Setup
+=============
+
+Twittjr is a client/server system that allows an IBM PCjr to search the public timeline on Twitter, with an auto-refreshing display. Visit <http://grantovich.net/projects/twittjr/> for more detailed information. This README is a quick how-to on setting up Twittjr using your own PCjr, assuming you have one.
+
+Oh, and in case you're wondering why the logo is so dang huge: Twittjr was designed as an eye-catching device to attract visitors to the [Computer Science House](http://www.csh.rit.edu/) tables at [ImagineRIT](http://www.rit.edu/imagine/) 2009. Collapsing the logo into a textual form and using the additional space to display more tweets is left as an exercise for the reader.
 
 
 What You'll Need
