@@ -1,7 +1,7 @@
 1'
 2' Twittjr Client Application
-3' Written by Alex Grant (alex@grantovich.net)
-4' http://grantovich.net/projects/twittjr/
+3' Setup instructions: https://github.com/grantovich/Twittjr
+4' Project details: http://grantovich.net/projects/twittjr/
 5'
 1' WARNING: All line breaks in this file must be DOS-style CR+LFs in order
 1' to load correctly on a PCjr. You may need to convert line breaks if you
