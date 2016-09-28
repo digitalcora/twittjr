@@ -1,7 +1,3 @@
-# Twittjr Server Script
-# Setup instructions: https://github.com/grantovich/Twittjr
-# Project details: http://grantovich.net/projects/twittjr/
-
 require 'cgi'
 require 'time'
 require 'open-uri'
